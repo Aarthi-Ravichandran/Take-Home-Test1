@@ -42,7 +42,7 @@ https://aarthi-ravichandran.github.io/Take-Home-Test1/
   
    - Link your local repository to the GitHub repository:
    
-     git remote add origin https://github.com/your-username/cloud-task-tracker.git
+     git remote add origin https://github.com/Aarthi-Ravichandran/Take-Home-Test1.git
   
    - Push your code to GitHub:
    
